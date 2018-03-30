@@ -1,0 +1,40 @@
+$grey: #f8f7f8;
+.ft-color {
+    background: $grey;
+}
+
+.about {
+    background: $grey;
+    padding: 20px;
+}
+
+.grid li {
+    max-width: 420px;
+    display: inline-block;
+}
+
+.grid li img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    padding: 6px;
+    p {
+        margin: 0;
+    }
+}
+
+.social ul{
+    list-style: none;
+    display: inline-flex;
+    font-size: 38px;
+    padding: 0px;
+}
+
+.pf {
+    max-width: 600px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0px;
+}
